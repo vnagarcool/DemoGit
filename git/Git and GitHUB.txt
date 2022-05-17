@@ -1,0 +1,39 @@
+Git: Version control System
+_______________________________________
+
+to use the same download the software https://git-scm.com/downloads 
+
+and once it is downloaded (download standalone)-- bit you can get it from system property( right click on my pc and see properties-- if its is 32 the download 32 bit else download 64 bit)
+
+install the same.
+
+double click on your sofware follow all steps by clicking on next.
+
+keep all default values and install.
+
+click on finish.
+
+---------------------------------------------------------------------------------------
+
+want check the weather git installed or not properly.
+
+open cmd (command prompt)  --> press (window + r) type cmd and enter or directly search cmd select command prompt and open
+
+type git --version
+
+press enter
+
+see the version of your GIt (means git successfully installed)
+_____________________________________________________________________________________________
+
+open https://github.com/ in browser and click on Sign Up
+
+follow the question provided by git and complete the registration process
+
+______________________________________________________________________________________________
+
+
+
+
+
+
